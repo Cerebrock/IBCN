@@ -1,3 +1,6 @@
-### IBCN
+Instituto de Biología Celular y Neurociencias
 
-Programas hechos durante la investigación en el Instituto de Biología Celular y Neurociencias, F.Med, UBA.
+- Parsing of .docx files to edit and count values. 
+- Visualizating data with Pandas
+- GUI with Tkinter to deliver psychometric questionnaires (either multiple choice or free entry)
+
